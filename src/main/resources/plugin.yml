@@ -1,0 +1,4 @@
+name: RealTime
+version: @version@
+main: com.gihub.mcokeydokey.realtime.RealTime
+api-version: 1.16
